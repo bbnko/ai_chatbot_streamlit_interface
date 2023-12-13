@@ -10,7 +10,7 @@ My example:      streamlit run c:/Users/bbnfa/Python_bgdn/AI_chatbot/simple_stre
 
 <h1>Running the code: 
   
-![Model](https://github.com/bbnko/ai_chatbot_streamlit_interface/blob/main/ai_chatbot_streamlit_screemshot2.png)
+![Model](https://github.com/bbnko/ai_chatbot_streamlit_interface/blob/main/ai_chatbot_streamlit_screenshot1.png)
 
 <h1>How the page looks: 
 
